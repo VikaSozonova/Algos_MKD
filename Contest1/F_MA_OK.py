@@ -22,4 +22,3 @@ for i in range(n):
     curent_area = length * hight
     max_area = max(curent_area, max_area)
 print(max_area)
-    
