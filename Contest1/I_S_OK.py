@@ -37,4 +37,3 @@ while curent != 0:
     elif curent_index == 0:
         to_right = True
 print(k)
-        
